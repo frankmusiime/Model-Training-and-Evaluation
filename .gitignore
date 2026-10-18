@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+logs/
+artifacts/
+adult.data
+adult.test
+*.zip
+_full_run_check.ipynb
